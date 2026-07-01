@@ -67,8 +67,8 @@
   <a href="https://github.com/KakashiSan69/Eternal-Web">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KakashiSan69&repo=Eternal-Web&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/KakashiSan69/REPLACE_WITH_ANOTHER_REAL_REPO">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KakashiSan69&repo=REPLACE_WITH_ANOTHER_REAL_REPO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/KakashiSan69/codex">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KakashiSan69&repo=codex&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
