@@ -1,1 +1,5 @@
-![Metrics](https://metrics.lecoq.io/kakashiSan69?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
+## 📊 Activities
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/KakashiSan69?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata" alt="Metrics">
+</p>
