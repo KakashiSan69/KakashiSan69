@@ -45,18 +45,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KakashiSan69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="KakashiSan69's GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com/?user=KakashiSan69&theme=tokyonight&hide_border=true" alt="KakashiSan69's streak stats" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakashiSan69&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=KakashiSan69&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://ghchart.rshah.org/58A6FF/KakashiSan69" alt="KakashiSan69's GitHub contribution graph" />
 </p>
 
 <p align="center">
   <img src="https://metrics.lecoq.io/KakashiSan69?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata" alt="Extended contribution metrics" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [Eternal-Web](https://github.com/KakashiSan69/Eternal-Web)
+<!-- Add a 1-line description of what this project does -->
+
+### 🔹 [Levi](https://github.com/KakashiSan69/Levi)
+<!-- Add a 1-line description of what this project does -->
 
 ---
 
