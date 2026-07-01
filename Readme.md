@@ -60,20 +60,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Swap in a real showcase project — a profile README repo (KakashiSan69/KakashiSan69) isn't a project, pick something like an actual bot or app repo -->
-<p align="center">
-  <a href="https://github.com/KakashiSan69/Eternal-Web">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KakashiSan69&repo=Eternal-Web&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/KakashiSan69/Levi">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KakashiSan69&repo=Levi&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
