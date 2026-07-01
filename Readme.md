@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-- 🧑‍💻 A developer focused on **backend systems, REST APIs, and automation**
+- 🧑‍💻 Full-stack developer focused on **backend systems, REST APIs, and automation**
 - 🤖 Building and maintaining **WhatsApp bots** using **Baileys**
 - 🌱 Currently learning: **AI & Machine Learning**
 - 🤝 Open to collaborate on: **open-source tooling, automation scripts, backend APIs**
@@ -50,6 +50,10 @@
 
 <p align="center">
   <img src="https://ghchart.rshah.org/58A6FF/KakashiSan69" alt="KakashiSan69's GitHub contribution graph" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakashiSan69&layout=compact&langs_count=12" alt="KakashiSan69's top languages" />
 </p>
 
 <p align="center">
