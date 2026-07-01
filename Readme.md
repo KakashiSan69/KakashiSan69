@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-- 🧑‍💻 Full-stack developer focused on **backend systems, REST APIs, and automation**
+- 🧑‍💻 A developer focused on **backend systems, REST APIs, and automation**
 - 🤖 Building and maintaining **WhatsApp bots** using **Baileys**
 - 🌱 Currently learning: **AI & Machine Learning**
 - 🤝 Open to collaborate on: **open-source tooling, automation scripts, backend APIs**
