@@ -9,15 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=KakashiSan69&label=Profile%20Views&color=58A6FF&style=flat" />
   <img src="https://img.shields.io/github/followers/KakashiSan69?label=Followers&style=flat&color=58A6FF" />
   <img src="https://img.shields.io/github/stars/KakashiSan69?affiliations=OWNER&style=flat&color=58A6FF" />
-  <!-- Optional: uncomment and edit if actively job hunting -->
-  <!-- <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat" /> -->
 </p>
 
 ---
 
 ## 👋 About Me
 
-- 🧑‍💻 Full-stack developer focused on **backend systems, REST APIs, and automation**
+- 🧑‍💻 A developer focused on **backend systems, REST APIs, and automation**
 - 🤖 Building and maintaining **WhatsApp bots** using **Baileys**
 - 🌱 Currently learning: **AI & Machine Learning**
 - 🤝 Open to collaborate on: **open-source tooling, automation scripts, backend APIs**
@@ -65,10 +63,10 @@
 ## 🚀 Featured Projects
 
 ### 🔹 [Eternal-Web](https://github.com/KakashiSan69/Eternal-Web)
-<!-- Add a 1-line description of what this project does -->
+
 
 ### 🔹 [Levi](https://github.com/KakashiSan69/Levi)
-<!-- Add a 1-line description of what this project does -->
+
 
 ---
 
