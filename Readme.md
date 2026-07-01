@@ -19,7 +19,7 @@
 
 - 🧑‍💻 Full-stack developer focused on **backend systems, REST APIs, and automation**
 - 🤖 Building and maintaining **WhatsApp bots** using **Baileys**
-- 🌱 Currently learning: *(fill this in — e.g. Go, Docker, System Design)*
+- 🌱 Currently learning: **AI & Machine Learning**
 - 🤝 Open to collaborate on: **open-source tooling, automation scripts, backend APIs**
 - 💬 Ask me about: **Node.js, Python, FastAPI, TypeScript, bot automation**
 - 📫 Reach me: see contact links below
@@ -67,8 +67,8 @@
   <a href="https://github.com/KakashiSan69/Eternal-Web">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KakashiSan69&repo=Eternal-Web&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/KakashiSan69/codex">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KakashiSan69&repo=codex&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/KakashiSan69/Levi">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KakashiSan69&repo=Levi&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
