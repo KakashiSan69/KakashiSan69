@@ -1,114 +1,50 @@
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KakashiSan69&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KakashiSan69&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakashiSan69&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🟩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KakashiSan69&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
 <h1 align="center">✨ Kakashi Hatake ✨</h1>
+
 <p align="center">
-  🧑‍💻 Full-stack Developer | 🤖 Bot Creator | 🎌 Anime Engineer <br>
+  🧑‍💻 Full-stack Developer • 🤖 WhatsApp Bot Developer • 🎌 Anime Engineer
+  <br><br>
   <i>"Code with heart, automate with soul, and never skip the opening theme."</i>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;TypeScript+%7C+Python+%7C+FastAPI;WhatsApp+Bot+Developer;Anime+Lover+%F0%9F%8E%8C;Open+Source+Contributor" />
+</p>
 
-## 🌸 Who Am I?
-
-Hey there! I'm **Kakashi (Shiva Sharma)**, a self-driven developer who crafts bots, APIs, and websites with style — always blending automation and anime aesthetics. Whether it's scraping sites like Shoob.gg, building high-speed WhatsApp bots, or writing FastAPI backends, I'm all about clean code and creative impact.
-
----
-
-## 🧪 My Core Stack
-
-| Category     | Tools |
-|-------------|-------|
-| 🛠️ Languages | TypeScript, JavaScript, Python |
-| ⚙️ Frameworks | FastAPI, Express.js |
-| 🤖 Bots      | [@WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys), Pyrogram |
-| 🌐 Scraping  | Puppeteer, Chromium |
-| 🎵 Media     | yt-dlp, cookies.txt |
-| ☁️ Hosting   | Ubuntu VPS, Oracle Cloud |
-| 🧰 Features  | Proxy rotation, Token auth, ZIP fetchers |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KakashiSan69&label=Profile%20Views&color=58A6FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/KakashiSan69?label=Followers&style=flat&color=58A6FF" />
+  <img src="https://img.shields.io/github/stars/KakashiSan69?affiliations=OWNER&style=flat&color=58A6FF" />
+</p>
 
 ---
 
-## 📦 My Projects
+## 📈 GitHub Stats
 
-### 🔥 WhatsApp Bot (Anime-Themed)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KakashiSan69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KakashiSan69&theme=tokyonight&hide_border=true"/>
+</p>
 
-Built using [@WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)  
-TypeScript + Decorator powered architecture  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakashiSan69&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-- 🧬 Pokémon System – Choose starters by generation, with images, gender, typing  
-- 🎴 Shoob.gg Card System – Puppeteer scraper, tier logic, image support  
-- 🛎️ Auction System – 5-minute anime-styled timers  
-- 🎙️ Voice Note Music – Returns `.ogg; codecs=opus` voice notes for WhatsApp  
-- 🥇 Premium Logic – Unlockable features and rewards  
-- 🎀 Cute UI – With emojis, region groups, and Zero Two intro messages  
+## 🏆 GitHub Trophies
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KakashiSan69&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-### 🌐 API & Scraper Systems
+## 📊 Contribution Graph
 
-#### 🎥 YouTube Downloader (FastAPI)
-- Supports cookies.txt  
-- Scrapes title, views, duration, and stream URLs  
-- Uses internal YouTube web clients for clean access  
-- Outputs JSON styled like neo.js  
-- Pterodactyl Master
-- Rule34 Scrapper
- 
-#### 🎶 TikTok Downloader
-- Video + audio download API  
-- Uses `--a` flag for audio  
-- Returns music URL, thumbnail, description, title  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KakashiSan69&theme=tokyo-night&hide_border=true"/>
+</p>
 
-#### 🧠 Shoob.gg + MyWaifuList Scrapers
-- Puppeteer + proxy rotation  
-- Smart search across 2K+ pages  
-- Supports full tier filtering, image fetching, and cache management  
+## 🐍 Contribution Snake
 
-#### 📦 Telegram ZIP Host API
-- Fetches ZIP files via Pyrogram  
-- Generates token-based VPS download links  
-- Auto-deletes file after download  
-- Telegraph Api
-
-#### 🔞 Xvideos Scraper API
-- FastAPI + metadata  
-- Hosts and serves temporary token-secured video downloads  
-- Debug logs for traceable scraping
-
-#### 📒 Databases
-- Mongodb 💗
-- Quickdb
-
-  ------
-
-## 🧪 Other Cool Stuff
-
-- 💌 Anime-inspired website with background music, love letters, and transitions  
-- 🎨 Used Zero Two/Hiro themes for smooth, emotional design  
-- 🕹️ Commands like `#start-journey`, `#party`, `#pc 1 3 5`, and more  
-- ⚔️ Custom clan system and message-count-based card spawns  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KakashiSan69/KakashiSan69/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
-
-## 💡 My Dev Philosophy
-
-```ts
-while(alive) {
-  code("with emotion");
-  automate("the boring");
-  style("like an anime OP");
-}
