@@ -1,5 +1,5 @@
 <h1 align="center">✨ Kakashi Hatake ✨</h1>
-<h3 align="center">Full-Stack Developer • Backend & API Engineer • WhatsApp Bot Automation Specialist</h3>
+<h3 align="center">AI Automation Developer • Backend & API Engineer • WhatsApp Bot Automation Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%7C+API+Development;TypeScript+%7C+Python+%7C+FastAPI+%7C+Node.js;WhatsApp+Bot+%26+Automation+Engineer;Open+Source+Contributor;Anime+Lover+%F0%9F%8E%8C" />
