@@ -53,11 +53,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakashiSan69&layout=compact&langs_count=12" alt="KakashiSan69's top languages" />
 </p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/KakashiSan69?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata" alt="Extended contribution metrics" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
