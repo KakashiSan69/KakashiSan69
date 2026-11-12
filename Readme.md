@@ -31,12 +31,12 @@
   <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,fastapi,express,react,mongodb,postgres,docker,git,github" />
 </p>
 
-**Languages:** TypeScript · JavaScript · Python
-**Backend/API:** Node.js · FastAPI · Express.js · REST APIs
-**Databases:** MongoDB · PostgreSQL
-**Tools:** Docker · Git · GitHub Actions
-**Bot/Automation:** Baileys (WhatsApp Web API) · Automation Scripting
-**Focus areas:** Automation · Bot Development · Backend Engineering
+- **Languages:** TypeScript · JavaScript · Python
+- **Backend/API:** Node.js · FastAPI · Express.js · REST APIs
+- **Databases:** MongoDB · PostgreSQL
+- **Tools:** Docker · Git · GitHub Actions
+- **Bot/Automation:** Baileys (WhatsApp Web API) · Automation Scripting
+- **Focus areas:** Automation · Bot Development · Backend Engineering
 
 ---
 
@@ -50,20 +50,26 @@
   <img src="https://ghchart.rshah.org/58A6FF/KakashiSan69" alt="KakashiSan69's GitHub contribution graph" />
 </p>
 
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakashisan69&theme=holi&name=Shiva+Sharma)
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakashisan69&theme=holi&exclude=typescript)
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakashisan69&theme=holi&exclude=typescript)
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakashisan69&theme=holi)
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakashisan69&theme=holi&timeZone=India%2FBijnor)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakashisan69&theme=holi&name=Shiva+Sharma" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakashisan69&theme=holi&exclude=typescript" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakashisan69&theme=holi&exclude=typescript" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakashisan69&theme=holi" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakashisan69&theme=holi&timeZone=India%2FBijnor" />
+</p>
 
-### 🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 ### 🔹 [Eternal-Web](https://github.com/KakashiSan69/Eternal-Web)
 
-
 ### 🔹 [Levi](https://github.com/KakashiSan69/Levi)
 
-[![DexInc API](https://img.shields.io/badge/DexInc_API-Free_Media_Downloader_&_AI-0284c7?style=for-the-badge)](https://dexincapis.qd.je)
+<p align="center">
+  <a href="https://dexincapis.qd.je"><img src="https://img.shields.io/badge/DexInc_API-Free_Media_Downloader_&_AI-0284c7?style=for-the-badge" alt="DexInc API" /></a>
+</p>
+
 ---
 
 ## 🌐 Connect With Me
