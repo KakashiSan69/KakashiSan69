@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakashiSan69&layout=compact&langs_count=12" alt="KakashiSan69's top languages" />
+  <img height="170" src="![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=KakashiSan69&layout=compact&langs_count=12)" alt="KakashiSan69's top languages" />
 </p>
 
 ### 🚀 Featured Projects
