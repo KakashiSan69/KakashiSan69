@@ -61,7 +61,7 @@
 
 ### 🔹 [Levi](https://github.com/KakashiSan69/Levi)
 
-
+[![DexInc API](https://img.shields.io/badge/DexInc_API-Free_Media_Downloader_&_AI-0284c7?style=for-the-badge)](https://dexincapis.qd.je)
 ---
 
 ## 🌐 Connect With Me
