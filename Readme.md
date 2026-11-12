@@ -50,9 +50,11 @@
   <img src="https://ghchart.rshah.org/58A6FF/KakashiSan69" alt="KakashiSan69's GitHub contribution graph" />
 </p>
 
-<p align="center">
-  <img height="170" src="![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=KakashiSan69&layout=compact&langs_count=12)" alt="KakashiSan69's top languages" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakashisan69&theme=holi&name=Shiva+Sharma)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakashisan69&theme=holi&exclude=typescript)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakashisan69&theme=holi&exclude=typescript)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakashisan69&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakashisan69&theme=holi&timeZone=India%2FBijnor)
 
 ### 🚀 Featured Projects
 
